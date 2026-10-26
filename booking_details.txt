@@ -1,0 +1,424 @@
+Customer No: 1234
+Room Type: Executive
+Room Number: 4
+Arrival: 2026-05-12
+Departure: 2026-05-13
+Days: 1
+Price per Day: 80000
+Total Price: 80000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Room Type: Executive
+Room Number: 4
+Arrival: 2026-05-12
+Departure: 2026-05-13
+Days: 1
+Price per Day: 80000
+Total Price: 80000
+Status: Paid
+----------------------------------------
+Customer No: 1122
+Dept: Rentals
+Price: 200
+Total Price: 2400
+Status: Paid
+----------------------------------------
+Customer No: 1122
+Dept: Kitchen
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Room Type: Executive
+Room Number: 4
+Arrival: 2026-05-12
+Departure: 2026-05-13
+Days: 1
+Price per Day: 80000
+Total Price: 80000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Bar
+Price: 50000
+Total Price: 100000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 1000
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 5000
+Total Price: 5000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 2000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 500
+Total Price: 500
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 1000
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 5000
+Total Price: 5000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 2000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Kitchen
+Price: 500
+Total Price: 500
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Games
+Price: 1000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 00111
+Dept: Sports
+Price: 500
+Total Price: 500
+Status: Pending
+----------------------------------------
+Customer No: 00111
+Dept: Rentals
+Price: 200
+Total Price: 2400
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Room Type: Regular
+Room Number: 2
+Arrival: 2026-05-27
+Departure: 2026-05-28
+Days: 1
+Price per Day: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 
+Room Type: Regular
+Room Number: 2
+Arrival: 2026-05-27
+Departure: 2026-05-28
+Days: 1
+Price per Day: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 
+Room Type: Regular
+Room Number: 
+Arrival: 2026-05-27
+Departure: 2026-05-28
+Days: 1
+Price per Day: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Total Price: 50000
+Status: Pending
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 5000
+Total Price: 5000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 5000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 500
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 5000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 500
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 5000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 500
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 3000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 15000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 6000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 1500
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 3000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 15000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 6000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 1500
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 10000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 4000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Sports
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Sports
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Sports
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Sports
+Price: 1000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Rentals
+Price: 200
+Total Price: 400
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Sports
+Price: 1000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Games
+Price: 1000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 2000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 10000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 4000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 1000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Rentals
+Price: 100000
+Total Price: 200000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Rentals
+Price: 100000
+Total Price: 200000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Total Price: 50000
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Sub Total: 50000
+Total Price: 100000.0Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Bar
+Price: 20000
+Sub Total: 40000
+Total Price: 180000.0Status: Pending
+----------------------------------------
+Customer No: 0020
+Room Type: Vip
+Room Number: 7
+Arrival: 2026-06-01
+Departure: 2026-06-02
+Days: 1
+Price per Day: 60000
+Total Price: 60000
+Status: Paid
+----------------------------------------

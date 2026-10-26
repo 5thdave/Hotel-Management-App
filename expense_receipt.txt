@@ -1,0 +1,68 @@
+Customer No: 1234
+Dept: Bar
+Price: 50000
+Sub Total: 50000
+Total Price: 50000.0Status: Paid
+----------------------------------------
+Customer No: 0020
+Dept: Bar
+Price: 20000
+Sub Total: 20000
+Total Price: 20000.0Status: Paid
+----------------------------------------
+Customer No: 0020
+Dept: Kitchen
+Price: 1000
+Total Price: 3000
+Total Price: 25500.0
+Status: Paid
+----------------------------------------
+Customer No: 0020
+Dept: Kitchen
+Price: 5000
+Total Price: 15000
+Total Price: 25500.0
+Status: Paid
+----------------------------------------
+Customer No: 0020
+Dept: Kitchen
+Price: 2000
+Total Price: 6000
+Total Price: 25500.0
+Status: Paid
+----------------------------------------
+Customer No: 0020
+Dept: Kitchen
+Price: 500
+Total Price: 1500
+Total Price: 25500.0
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 1000
+Total Price: 2000
+Total Price: 17000.0
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 5000
+Total Price: 10000
+Total Price: 17000.0
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 2000
+Total Price: 4000
+Total Price: 17000.0
+Status: Paid
+----------------------------------------
+Customer No: 1234
+Dept: Kitchen
+Price: 500
+Total Price: 1000
+Total Price: 17000.0
+Status: Paid
+----------------------------------------
